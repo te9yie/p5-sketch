@@ -1,4 +1,4 @@
-let sketch00 = (p) => {
+const sketch00 = (p) => {
     p.setup = () => {
         p.createCanvas(200, 200);
     };

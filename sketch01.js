@@ -1,4 +1,4 @@
-let sketch01 = (p) => {
+const sketch01 = (p) => {
     p.setup = () => {
         p.createCanvas(200, 200);
         p.rectMode(p.CENTER);
